@@ -1,0 +1,219 @@
+		
+/* For all webpages*/
+			
+			body {
+				margin: 0;
+				background-color: #074914;
+				}
+			.header {
+				padding: 10px;
+				background-color: #116922;
+				height: 80px;
+				}
+			.logo {
+				display: inline;
+				margin-right: 10px;
+				float: left;
+				height: 80px;
+				width: 150px;
+				margin-left: 10px;
+				box-shadow: 4px 4px 4px #074914;
+				
+				}
+			.hn {
+				display: inline;
+				float: left;
+				padding: 25px;
+				font-size: 30px;
+				margin: 0;
+				color: #B4992C;
+				text-shadow: 2px 2px 2px black;
+				}
+				
+			.home {	
+				float: right;
+				padding: 10px 30px 10px 30px;
+				background-color:#947E22;
+				margin: 20px; 
+				margin-right: 10px;
+				text-decoration: none;
+				color: #05300D;
+				font-weight: bold;
+				text-shadow: .25px .25px .25px #05300D;
+				}
+				
+			.more {
+				float: right;
+				padding: 10px 30px 10px 30px;
+				background-color:#947E22;
+				margin: 20px 100px 20px 10px;
+				text-decoration: none;
+				color: #05300D;
+				font-weight:bold;
+				text-shadow: .25px .25px .25px #05300D;
+				}
+				
+			p {
+				font-size: 20px;
+			}
+			
+			
+			
+			
+/* Bottom links*/
+				
+			.h {
+				text-decoration: none;
+				color: #B4992C;
+				margin: 10px;
+				text-shadow: 1px 1px 1px black;
+			}
+			.yy1 {
+				text-decoration: none;
+				color: #B4992C;
+				margin: 10px;
+				text-shadow: 1px 1px 1px black;
+			}
+			.yy2 {
+				text-decoration: none;
+				color: #B4992C;
+				margin: 10px;
+				text-shadow: 1px 1px 1px black;
+			}
+			.yy3 {
+				text-decoration: none;
+				color: #B4992C;
+				margin: 10px;
+				text-shadow: 1px 1px 1px black;
+			}
+			.m {
+				text-decoration: none;
+				color: #B4992C;
+				margin: 10px;
+				text-shadow: 1px 1px 1px black;
+			}
+				
+
+
+
+/*Main Page*/
+			
+				#mpcontent {
+				display: flex;
+				margin: 0;
+				}
+				
+				#mpcontent div{
+				}
+		
+				.left {
+					width: 55%;	
+				}
+
+				.right {
+					width: 45%;				
+				}
+			
+				.title {
+					margin: 75px;
+					margin-right: 10px;
+					font-size: 50px;
+					color: #947E22;
+					text-shadow: 4px 4px 4px black;
+				}
+			
+				.description {
+					margin: 75px;
+					margin-left: 20px;
+					margin-top:50px;
+					font-size: 18px;
+				}
+
+
+
+
+/*Characters page*/
+			
+			#kali {
+				display: flex;
+				margin: 100px 0px 0px 0px;
+			}	
+			
+			#kali div {
+			}
+			
+			.kalii {
+				width: 25%;
+			}
+			.kaliimage {				
+				margin: 20px;
+			}
+			.kalip {
+				width: 75%;
+				margin: 50px 50px 50px 15px;
+			}
+			
+			#anya {
+				display: flex;
+				margin: 0;
+			}	
+			
+			#anya div {
+			}
+			
+			.anyai {
+				width: 25%;
+			}
+			.anyap {
+				width: 75%;
+				margin: 50px 15px 50px 50px;
+			}
+			
+			#luna {
+				display: flex;
+				margin: 0;
+			}	
+			
+			#luna div {
+			}
+			
+			.lunai {
+				width: 25%;
+			}
+			.lunap {
+				width: 75%;
+				margin: 50px 50px 50px 15px;
+			}
+			#lexa {
+				display: flex;
+				margin: 0;
+			}	
+			
+			#lexa div {
+			}
+			
+			.lexai {
+				width: 25%;
+			}
+			.lexap {
+				width: 75%;
+				margin: 50px 15px 50px 50px;
+			}
+			#kala {
+				display: flex;
+				margin: 0;
+			}	
+			
+			#kala div {
+			}
+			
+			.kalai {
+				width: 25%;
+			}
+			.kalap {
+				width: 75%;
+				margin: 50px 50px 50px 15px;
+			}
+			
+			
+			
